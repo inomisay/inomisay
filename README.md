@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Yasamin
-- 👀 I’m interested in learning new languages and web programming.
-- My motherlanguage is Persian and i can speak English, German and Turkish.
-- 🌱 I’m currently excited about Python, Django, Node.JS, JavaScript, API REST and 
-- 💞️ I’m looking to collaborate on Django, JavaScript and Node.JS. Because i want to improve myself in these areas so i can get even more better at it.
-- 📫 You can reach me on social media
+# Hi there, I'm Yasamin! 👋
 
-<!---
-inomisay/inomisay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a second-year computer engineering student at Dokuz Eylül University with a passion for learning new languages and web programming.
+
+## About Me
+- 🔭 I’m currently excited about web development, software engineering, and exploring topics like regression analysis and image processing in AI.
+- 🌱 I'm constantly seeking to expand my knowledge and skills in software development.
+- 💬 Feel free to reach out to me on social media platforms. I'd love to connect with fellow developers and enthusiasts!
+
+## Languages and Skills
+- **Languages:** Persian (mother tongue), English, German, Turkish
+- **Programming:** Python, JavaScript, Java, C#, C, SQL
+- **Frameworks:** Django, Node.JS
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, Quartus, LTspice
+- **Web Technologies:** HTML, CSS, Bootstrap, Tailwind CSS
+- **IDEs:** Visual Studio Code, Eclipse, IntelliJ IDEA, Xcode
+- **Designing:** UML diagrams, Lucidchart
+- **Project Management:** ClickUp
+
+## Get in Touch
+- LinkedIn: [Yasamin's LinkedIn](https://www.linkedin.com/in/yasamin-valishariatpanahi/)
+- Email: yassi.shariatpanahi@yahoo.com
