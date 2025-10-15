@@ -3,6 +3,7 @@
 I'm a Computer Engineering student at Dokuz Eylül University with a strong passion for full-stack development, backend systems, and applying technology to solve real-world problems. I have hands-on experience in building web applications, IoT systems, and AI-driven solutions.
 
 - 🤖 I recently developed **CampusMate**, an AI-powered student assistant using .NET and OpenAI LLMs during the EPAM NextGenAI Türkiye Hack'25.
+- 🚀 Additionally, I’m collaborating with a doctor on **NephroCare AI**, a decision support system for kidney health.
 - 🌱 I’m always eager to learn and explore new technologies, especially in AI and cybersecurity.
 - 💬 Feel free to reach out! I’d love to connect with fellow developers and tech enthusiasts.
 
