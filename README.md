@@ -1,11 +1,12 @@
-# Hi there, I'm Yasamin! 👋
+# Hi there, I'm Yasamin (Yasi) 👋
 
-I'm a Computer Engineering student at Dokuz Eylül University with a strong passion for full-stack development, backend systems, and applying technology to solve real-world problems. I have hands-on experience in building web applications, IoT systems, and AI-driven solutions.
+🎓 **Computer Engineering Student** at **Dokuz Eylül University**  
+🤖 **Machine Learning & Clinical Decision Support Developer**  
+🌍 İzmir, Turkey
 
-- 🤖 I recently developed **CampusMate**, an AI-powered student assistant using .NET and OpenAI LLMs during the EPAM NextGenAI Türkiye Hack'25.
-- 🚀 Additionally, I’m collaborating with a doctor on **NephroCare AI**, a decision support system for kidney health.
-- 🌱 I’m always eager to learn and explore new technologies, especially in AI and cybersecurity.
-- 💬 Feel free to reach out! I’d love to connect with fellow developers and tech enthusiasts.
+I specialize in **backend systems, full-stack development, and AI-driven decision support systems**.  
+My main interests are **healthcare AI, machine learning pipelines, IoT systems, and LLM-based applications**.  
+I enjoy building **scalable, real-world software** that combines solid engineering with applied AI.
 
 ---
 
@@ -16,20 +17,20 @@ I'm a Computer Engineering student at Dokuz Eylül University with a strong pass
     <td valign="top" width="50%">
       <strong>Programming & Development</strong><br>
       <ul>
-        <li>Java</li>
         <li>Python</li>
+        <li>Java</li>
         <li>C#</li>
-        <li>C / C++</li>
         <li>Go</li>
+        <li>C / C++</li>
         <li>SQL</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <strong>Web & Software Development</strong><br>
+      <strong>Web & Backend Development</strong><br>
       <ul>
-        <li>Spring Boot</li>
         <li>Node.js</li>
         <li>ASP.NET</li>
+        <li>Spring Boot</li>
         <li>React</li>
         <li>JavaScript, HTML, CSS</li>
         <li>RESTful APIs & WebSockets</li>
@@ -38,22 +39,42 @@ I'm a Computer Engineering student at Dokuz Eylül University with a strong pass
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Database Systems</strong><br>
+      <strong>AI & Data</strong><br>
       <ul>
-        <li>MongoDB</li>
-        <li>MySQL</li>
-        <li>PostgreSQL</li>
-        <li>MSSQL</li>
+        <li>Machine Learning (scikit-learn)</li>
+        <li>XGBoost, Gradient Boosting</li>
+        <li>Explainable AI (SHAP, LIME)</li>
+        <li>Clinical Decision Support Systems</li>
+        <li>LLMs & RAG Architectures</li>
       </ul>
     </td>
+    <td valign="top" width="50%">
+      <strong>Database Systems</strong><br>
+      <ul>
+        <li>PostgreSQL</li>
+        <li>MSSQL</li>
+        <li>MongoDB</li>
+        <li>MySQL</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
       <strong>DevTools & Environments</strong><br>
       <ul>
         <li>Docker</li>
         <li>Git / GitHub / Gerrit</li>
-        <li>IntelliJ IDEA, VS Code, Eclipse, Visual Studio</li>
         <li>Postman, Insomnia</li>
         <li>Linux Virtual Machine</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Engineering & Practices</strong><br>
+      <ul>
+        <li>Object-Oriented Programming (OOP)</li>
+        <li>Design Patterns</li>
+        <li>UML & System Design</li>
+        <li>Agile & Scrum</li>
       </ul>
     </td>
   </tr>
@@ -63,57 +84,96 @@ I'm a Computer Engineering student at Dokuz Eylül University with a strong pass
 
 ## 🚀 Projects
 
-- **CampusMate - AI-powered Student Assistant**
-  - An AI assistant to support university students with academic and administrative inquiries, built with .NET, MSSQL, and OpenAI LLMs (RAG).
-  - *Technologies*: .NET, MSSQL, OpenAI LLMs, REST APIs, Git.
-
-- **Automated Deep Water Culture (DWC) Hydroponic System**
-  - An IoT system for real-time monitoring and control of hydroponic conditions (pH, TDS, temperature). Features a web interface for remote monitoring.
-  - *Technologies*: Arduino (C/C++), Node.js, ASP.NET, MongoDB, WebSockets, RESTful APIs.
-  - **[Link to Project](https://github.com/inomisay/Automated-Hydroponic-System)**
-
-- **Library Management System (LMS)**
-  - A desktop application to digitize and streamline library workflows for books, members, and staff, featuring role-based interfaces and secure authentication.
-  - *Technologies*: Java, Java Swing, AWT, TestNG, CSV.
-  - **[Link to Project](https://github.com/inomisay/LibrarySystemManagement)**
+### **NephroCareAI – AI-Based Clinical Decision Support System**
+- AI-powered system for **AKI & CKD risk prediction**, developed with real clinical logic.
+- Built end-to-end ML pipelines, applied **XGBoost** and **KDIGO-based rules**.
+- Integrated **Explainable AI (SHAP & LIME)** for clinician-facing interpretability.
+- Streamlit interface with Excel uploads, visualizations, and automated PDF reports.
+- *Tech:* Python, Streamlit, XGBoost, scikit-learn, SHAP, LIME  
+🔒 Private repository
 
 ---
 
-## 💼 Work Experience
-
-- **Backend Developer** (Part-Time) | **TECHMAX TECHNOLOGY** | Izmir, Turkey
-  - *Dec 2024 - Jan 2025*
-  - Developed the backend for a Restaurant Management (POS) system using Node.js and MSSQL. Implemented real-time features with Socket.io and WebSockets for kitchen displays and QR menu systems.
-
-- **Computer Hardware Engineer** (Internship) | **Dokuz Eylül University** | Izmir, Turkey
-  - *Jul 2024 - Jul 2024*
-  - Built an automated hydroponic system using Arduino, integrating multiple sensors for real-time data collection. Designed the system with a Node.js backend, ASP.NET Web API, and MongoDB.
-
-- **Full-Stack Developer** (Internship) | **OSF ACADEMY** | Izmir, Turkey
-  - *Mar 2022 - Mar 2022*
-  - Developed a full-stack e-commerce platform using Node.js, Express.js, and Mongoose. Integrated Stripe for payments and JWT for authentication.
+### **CampusMate – AI-Powered Student Assistant**
+- Developed during **EPAM NextGenAI Türkiye Hack’25**.
+- LLM-based assistant for academic and administrative university queries.
+- Implemented **Retrieval-Augmented Generation (RAG)** for context-aware responses.
+- *Tech:* .NET, MSSQL, LLMs, RAG
 
 ---
 
-## 🎓 Education & Certifications
+### **Automated Deep Water Culture (DWC) Hydroponic System**
+- End-to-end **IoT system** for real-time monitoring and control of hydroponic environments.
+- Sensor-driven automation with remote monitoring via web interface.
+- *Tech:* Arduino (C/C++), ESP8266, Node.js, ASP.NET, MongoDB, WebSockets  
+🔗 https://github.com/inomisay/AutomatedHydroponicSystem
 
-- **Bachelor of Computer Engineering** | **Dokuz Eylül University** | Izmir, Turkey
-  - *Sep 2022 - Present*
+---
 
-- **Generative AI Project - CampusMate** | **EPAM NextGenAl Türkiye Hack'25**
-  - *Issued: Sep 2025*
-  - Successfully completed a Generative AI project, developing an AI-powered assistant for university students.
+### **Library Management System**
+- Role-based desktop application for managing books, users, and lending workflows.
+- Secure authentication, CRUD operations, and loan tracking.
+- *Tech:* Java, Java Swing, OOP, CSV, TestNG  
+🔗 https://github.com/inomisay/LibrarySystemManagement
+
+---
+
+### **APTility Pro – Apartment Utility Billing System**
+- Scalable full-stack system for apartment utility billing and tenant management.
+- Role-based access control and automated billing workflows.
+- *Tech:* Node.js, React, Spring Boot, MongoDB, Docker  
+🔒 Private repository
+
+---
+
+## 💼 Experience
+
+**Computer Software Engineer (Machine Learning & Clinical Decision Support) – Intern**  
+**Dokuz Eylül University** | Jul 2025 – Sep 2025  
+- Developed NephroCareAI and clinician-facing ML pipelines.
+- Evaluated multiple ML models and applied Explainable AI techniques.
+
+**Backend Developer (Part-Time)**  
+**Techmax Technology** | Dec 2024 – Jan 2025  
+- Developed backend services for POS systems using Node.js and MSSQL.
+- Implemented real-time communication with WebSockets (Socket.io).
+
+**Computer Hardware Engineer – Intern**  
+**Dokuz Eylül University** | Jul 2024  
+- Built IoT-based automation systems using Arduino and sensor integrations.
+- Developed backend services and web-based monitoring interfaces.
+
+**Full-Stack Developer – Intern**  
+**OSF Academy** | Mar 2022  
+- Developed a full-stack e-commerce platform.
+- Integrated Stripe payments and JWT authentication.
 
 ---
 
 ## 🌐 Languages
 
-| Language | Proficiency |
-| :--- | :--- |
-| **Persian** | Native |
-| **English** | Proficient (C1) |
-| **Turkish** | Proficient (C1) |
-| **German** | Independent (B1) |
+<table>
+  <tr>
+    <th align="left">Language</th>
+    <th align="left">Proficiency</th>
+  </tr>
+  <tr>
+    <td>Persian</td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>C1 – Proficient</td>
+  </tr>
+  <tr>
+    <td>Turkish</td>
+    <td>C1 – Proficient</td>
+  </tr>
+  <tr>
+    <td>German</td>
+    <td>B1 – Independent</td>
+  </tr>
+</table>
 
 ---
 
