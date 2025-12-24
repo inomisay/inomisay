@@ -1,8 +1,8 @@
 # Hi there, I'm Yasamin (Yasi) 👋
 
 🎓 **Computer Engineering Student** at **Dokuz Eylül University**  
-🤖 **Machine Learning & Clinical Decision Support Developer**  
-🌍 İzmir, Turkey
+💻 **Software & Web Developer | Machine Learning & Clinical Decision Support Developer**  
+🌍 Izmir, Turkey
 
 I specialize in **backend systems, full-stack development, and AI-driven decision support systems**.  
 My main interests are **healthcare AI, machine learning pipelines, IoT systems, and LLM-based applications**.  
