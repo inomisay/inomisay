@@ -82,74 +82,6 @@ I enjoy building **scalable, real-world software** that combines solid engineeri
 
 ---
 
-## 🚀 Projects
-
-### **NephroCareAI – AI-Based Clinical Decision Support System**
-- AI-powered system for **AKI & CKD risk prediction**, developed with real clinical logic.
-- Built end-to-end ML pipelines, applied **XGBoost** and **KDIGO-based rules**.
-- Integrated **Explainable AI (SHAP & LIME)** for clinician-facing interpretability.
-- Streamlit interface with Excel uploads, visualizations, and automated PDF reports.
-- *Tech:* Python, Streamlit, XGBoost, scikit-learn, SHAP, LIME  
-🔒 Private repository
-
----
-
-### **CampusMate – AI-Powered Student Assistant**
-- Developed during **EPAM NextGenAI Türkiye Hack’25**.
-- LLM-based assistant for academic and administrative university queries.
-- Implemented **Retrieval-Augmented Generation (RAG)** for context-aware responses.
-- *Tech:* .NET, MSSQL, LLMs, RAG
-
----
-
-### **Automated Deep Water Culture (DWC) Hydroponic System**
-- End-to-end **IoT system** for real-time monitoring and control of hydroponic environments.
-- Sensor-driven automation with remote monitoring via web interface.
-- *Tech:* Arduino (C/C++), ESP8266, Node.js, ASP.NET, MongoDB, WebSockets  
-🔗 https://github.com/inomisay/AutomatedHydroponicSystem
-
----
-
-### **Library Management System**
-- Role-based desktop application for managing books, users, and lending workflows.
-- Secure authentication, CRUD operations, and loan tracking.
-- *Tech:* Java, Java Swing, OOP, CSV, TestNG  
-🔗 https://github.com/inomisay/LibrarySystemManagement
-
----
-
-### **APTility Pro – Apartment Utility Billing System**
-- Scalable full-stack system for apartment utility billing and tenant management.
-- Role-based access control and automated billing workflows.
-- *Tech:* Node.js, React, Spring Boot, MongoDB, Docker  
-🔒 Private repository
-
----
-
-## 💼 Experience
-
-**Computer Software Engineer (Machine Learning & Clinical Decision Support) – Intern**  
-**Dokuz Eylül University** | Jul 2025 – Sep 2025  
-- Developed NephroCareAI and clinician-facing ML pipelines.
-- Evaluated multiple ML models and applied Explainable AI techniques.
-
-**Backend Developer (Part-Time)**  
-**Techmax Technology** | Dec 2024 – Jan 2025  
-- Developed backend services for POS systems using Node.js and MSSQL.
-- Implemented real-time communication with WebSockets (Socket.io).
-
-**Computer Hardware Engineer – Intern**  
-**Dokuz Eylül University** | Jul 2024  
-- Built IoT-based automation systems using Arduino and sensor integrations.
-- Developed backend services and web-based monitoring interfaces.
-
-**Full-Stack Developer – Intern**  
-**OSF Academy** | Mar 2022  
-- Developed a full-stack e-commerce platform.
-- Integrated Stripe payments and JWT authentication.
-
----
-
 ## 🌐 Languages
 
 <table>
@@ -163,15 +95,15 @@ I enjoy building **scalable, real-world software** that combines solid engineeri
   </tr>
   <tr>
     <td>English</td>
-    <td>C1 – Proficient</td>
+    <td>C1</td>
   </tr>
   <tr>
     <td>Turkish</td>
-    <td>C1 – Proficient</td>
+    <td>C1</td>
   </tr>
   <tr>
     <td>German</td>
-    <td>B1 – Independent</td>
+    <td>B1</td>
   </tr>
 </table>
 
@@ -180,4 +112,4 @@ I enjoy building **scalable, real-world software** that combines solid engineeri
 ## 📫 Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/yasamin-valishariatpanahi](https://www.linkedin.com/in/yasamin-valishariatpanahi/)
-- **Email:** [jmvshp@gmail.com](mailto:jmvshp@gmail.com)
+- **Email:** [jmvshp@gmail.com](mailto:yasamin.valishariatpanahi@gmail.com)
