@@ -21,6 +21,7 @@ I enjoy building **scalable, real-world software** that combines solid engineeri
         <li>Java</li>
         <li>C#</li>
         <li>Go</li>
+        <li>PHP</li>
         <li>C / C++</li>
         <li>SQL</li>
       </ul>
@@ -32,6 +33,7 @@ I enjoy building **scalable, real-world software** that combines solid engineeri
         <li>ASP.NET</li>
         <li>Spring Boot</li>
         <li>React</li>
+        <li>Laravel</li>
         <li>JavaScript, HTML, CSS</li>
         <li>RESTful APIs & WebSockets</li>
       </ul>
@@ -65,6 +67,8 @@ I enjoy building **scalable, real-world software** that combines solid engineeri
         <li>Docker</li>
         <li>Git / GitHub / Gerrit</li>
         <li>Postman, Insomnia</li>
+        <li>Arduino IDE</li>
+        <li>Quartus II</li>
         <li>Linux Virtual Machine</li>
       </ul>
     </td>
