@@ -118,5 +118,3 @@ I enjoy building **scalable, real-world software** that combines solid engineeri
 - **Website:** [inomisay.vercel.app](inomisay.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/yasamin-valishariatpanahi](https://www.linkedin.com/in/yasamin-valishariatpanahi/)
 - **Email:** [jmvshp@gmail.com](mailto:yasamin.valishariatpanahi@gmail.com)
-
-- 
