@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-Computer Engineer who graduated from Dokuz Eylül University passionate about software engineering, machine learning, AI, and building intelligent systems. I enjoy turning research into practical applications.
+Computer Engineer | B.Sc. Graduate from Dokuz Eylül University | M.Sc. Student in Computer Engineering
+I'm passionate about software engineering, machine learning, AI, and building intelligent systems. I enjoy turning research into practical applications.
 
 🔭 &nbsp;I'm currently working on **Prompt security, LLM safety, and AI defense mechanisms.**  
 🌱 &nbsp;I'm currently learning **Advanced Machine Learning, LLM Security, and MLOps.**  
