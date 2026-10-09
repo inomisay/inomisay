@@ -13,8 +13,8 @@
 Computer Engineer | B.Sc. Graduate from Dokuz Eylül University | M.Sc. Student in Computer Engineering <br>
 I'm passionate about software engineering, machine learning, AI, and building intelligent systems. I enjoy turning research into practical applications.
 
-🔭 &nbsp;I'm currently working on **Prompt security, LLM safety, and AI defense mechanisms.**  
-🌱 &nbsp;I'm currently learning **Advanced Machine Learning, LLM Security, and MLOps.**  
+🔭 &nbsp;I'm currently working on **Emotion Speech Recognition.**  
+🌱 &nbsp;I'm currently learning **Audio Processing, Image Processing, LLM Security, and MLOps.**  
 👯 &nbsp;I'm looking to collaborate on **Open-source AI and software engineering projects.**  
 🤔 &nbsp;I'm looking for help with **Production-ready AI, cloud infrastructure, and research collaborations.**  
 💬 &nbsp;Ask me about **Machine Learning, Python, FastAPI, Node.js, and Software Engineering.**  
