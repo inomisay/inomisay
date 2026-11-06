@@ -56,7 +56,6 @@ I work on software, machine learning and AI, and I like taking research out of t
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inomisay/inomisay/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inomisay/inomisay/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/inomisay/inomisay/output/github-snake.svg">
 </picture>
 
 ### `> support --me`
