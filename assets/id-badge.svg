@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 360" width="820" height="360" role="img" aria-label="Developer ID card for Yasamin (inomisay)">
+<style>
+  .mono { font-family: "Courier New", Courier, monospace; }
+  .lbl { font-size: 12px; fill: #8a7f99; letter-spacing: 2px; font-weight: 700; }
+  .val { font-size: 19px; fill: #2b2140; font-weight: 700; }
+  .cursor { animation: blink 1s steps(1) infinite; }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .55; } }
+</style>
+<defs>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#2b2140" opacity=".05"/></pattern>
+  <clipPath id="card"><rect x="40" y="50" width="740" height="290" rx="18"/></clipPath>
+</defs>
+<!-- lanyard + clip -->
+<rect x="385" y="0" width="50" height="44" fill="#db61a2"/>
+<rect x="385" y="0" width="50" height="44" fill="url(#scan)"/>
+<!-- hard retro shadow -->
+<rect x="50" y="60" width="740" height="290" rx="18" fill="#2b2140"/>
+<!-- card -->
+<rect x="40" y="50" width="740" height="290" rx="18" fill="#f6efe0" stroke="#2b2140" stroke-width="4"/>
+<g clip-path="url(#card)">
+  <rect x="40" y="88" width="740" height="46" fill="#a371f7"/>
+  <rect x="40" y="134" width="740" height="4" fill="#db61a2"/>
+  <rect x="40" y="50" width="740" height="290" fill="url(#scan)"/>
+</g>
+<rect x="370" y="62" width="80" height="12" rx="6" fill="#2b2140"/>
+<rect x="368" y="30" width="84" height="22" rx="6" fill="#c9d1d9" stroke="#2b2140" stroke-width="3"/>
+<text class="mono" x="66" y="118" font-size="21" font-weight="700" fill="#fff" letter-spacing="2">★ DEVELOPER ID ★</text>
+<text class="mono" x="754" y="118" font-size="15" font-weight="700" fill="#fff" text-anchor="end" letter-spacing="1">NO. INO-0001</text>
+<!-- photo: pixel monitor -->
+<rect x="70" y="154" width="150" height="160" fill="#fffaf0" stroke="#2b2140" stroke-width="3"/>
+<rect x="90" y="175" width="110" height="80" fill="#2b2140"/>
+<rect x="100" y="185" width="90" height="60" fill="#0f1a2e"/>
+<g class="pulse" fill="#db61a2"><rect x="125" y="191" width="8" height="8"/><rect x="133" y="191" width="8" height="8"/><rect x="149" y="191" width="8" height="8"/><rect x="157" y="191" width="8" height="8"/><rect x="117" y="199" width="8" height="8"/><rect x="125" y="199" width="8" height="8"/><rect x="133" y="199" width="8" height="8"/><rect x="141" y="199" width="8" height="8"/><rect x="149" y="199" width="8" height="8"/><rect x="157" y="199" width="8" height="8"/><rect x="165" y="199" width="8" height="8"/><rect x="117" y="207" width="8" height="8"/><rect x="125" y="207" width="8" height="8"/><rect x="133" y="207" width="8" height="8"/><rect x="141" y="207" width="8" height="8"/><rect x="149" y="207" width="8" height="8"/><rect x="157" y="207" width="8" height="8"/><rect x="165" y="207" width="8" height="8"/><rect x="125" y="215" width="8" height="8"/><rect x="133" y="215" width="8" height="8"/><rect x="141" y="215" width="8" height="8"/><rect x="149" y="215" width="8" height="8"/><rect x="157" y="215" width="8" height="8"/><rect x="133" y="223" width="8" height="8"/><rect x="141" y="223" width="8" height="8"/><rect x="149" y="223" width="8" height="8"/><rect x="141" y="231" width="8" height="8"/></g>
+<rect x="135" y="255" width="20" height="12" fill="#2b2140"/>
+<rect x="118" y="267" width="54" height="8" fill="#2b2140"/>
+<text class="mono" x="145" y="302" font-size="15" font-weight="700" fill="#a371f7" text-anchor="middle">@inomisay</text>
+<!-- fields -->
+<text class="mono lbl" x="250" y="168">NAME</text>
+<text class="mono val" x="250" y="190">YASAMIN VALISHARIATPANAHI</text>
+<text class="mono lbl" x="250" y="218">ROLE</text>
+<text class="mono val" x="250" y="240" font-size="17">COMPUTER ENGINEER · M.SC.</text>
+<text class="mono lbl" x="250" y="268">FOCUS</text>
+<text class="mono val" x="250" y="290" font-size="17">SPEECH EMOTION RECOGNITION</text>
+<text class="mono" x="250" y="322" font-size="14" font-weight="700" fill="#2b2140">STATUS: <tspan fill="#db61a2">BUILDING</tspan><tspan class="cursor" fill="#db61a2">█</tspan></text>
+<!-- stamp -->
+<g transform="rotate(-12 700 190)">
+  <circle cx="700" cy="190" r="44" fill="none" stroke="#db61a2" stroke-width="3"/>
+  <circle cx="700" cy="190" r="37" fill="none" stroke="#db61a2" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text class="mono" x="700" y="185" font-size="13" font-weight="700" fill="#db61a2" text-anchor="middle">LEARN BY</text>
+  <text class="mono" x="700" y="202" font-size="13" font-weight="700" fill="#db61a2" text-anchor="middle">BUILDING</text>
+</g>
+<!-- barcode -->
+<g fill="#2b2140"><rect x="590" y="276" width="6" height="34"/><rect x="598" y="276" width="4" height="34"/><rect x="604" y="276" width="8" height="34"/><rect x="614" y="276" width="2" height="34"/><rect x="622" y="276" width="4" height="34"/><rect x="628" y="276" width="2" height="34"/><rect x="638" y="276" width="4" height="34"/><rect x="644" y="276" width="6" height="34"/><rect x="652" y="276" width="4" height="34"/><rect x="660" y="276" width="2" height="34"/><rect x="670" y="276" width="2" height="34"/><rect x="678" y="276" width="2" height="34"/><rect x="682" y="276" width="4" height="34"/><rect x="692" y="276" width="2" height="34"/><rect x="698" y="276" width="2" height="34"/><rect x="708" y="276" width="2" height="34"/><rect x="714" y="276" width="6" height="34"/></g>
+<text class="mono" x="590" y="324" font-size="10" fill="#8a7f99" letter-spacing="3">DEU · CENG · AI</text>
+</svg>
