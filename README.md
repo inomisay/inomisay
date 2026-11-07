@@ -49,10 +49,6 @@ I work on software, machine learning and AI, and I like taking research out of t
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=inomisay&layout=compact&theme=tokyonight&title_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=inomisay&bg_color=00000000&color=db61a2&line=a371f7&point=db61a2&area=true&area_color=a371f7&hide_border=true" alt="Contribution activity graph" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inomisay/inomisay/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inomisay/inomisay/output/github-snake.svg">
